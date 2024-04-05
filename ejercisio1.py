@@ -8,3 +8,4 @@ for linea in range (1,n+1):             #este primer for crea saltos de linea de
     for conteo in range (1,linea+1):    #se crea una nueva lista que va incrementando segun cada interaccion
         print (s, end='')               #se imrpime los asteriscos segun el ciclo anterior
     print()                             #imprime un salto de linea
+print() 
